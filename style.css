@@ -1,0 +1,13 @@
+#boxclr 
+{
+    display:inline-flex;
+    border:1px solid black;
+    font-size: 30px;
+    padding:5%;
+    margin:2%;
+}
+#text
+{
+    size:20px;
+    font-weight: bold;
+}
